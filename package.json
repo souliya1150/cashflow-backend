@@ -1,6 +1,10 @@
 {
   "name": "cashflow-backend",
   "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo serverless"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "mongoose": "^8.0.3"
